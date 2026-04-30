@@ -13,6 +13,7 @@ Permite a los usuarios acumular y gastar puntos en productos, mientras que un ad
 - Java 17+
 - Node.js 18+
 - MySQL 8+
+- Angular 21+
 
 ### 🔧 Backend (Spring Boot)
 
